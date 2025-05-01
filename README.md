@@ -56,9 +56,3 @@ Translations
 ------------
 
 Changes to translations as well as new translations
-
-
-**Important**: We do not accept translation changes as GitHub pull requests because the next
-pull from Transifex would automatically overwrite them again.
-
-Translators should also subscribe to the [mailing list](https://groups.google.com/forum/#!forum/bitcoin-translators).
